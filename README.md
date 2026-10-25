@@ -17,5 +17,5 @@ Aktuell baue ich ein System, das alle Projekt- und Baudokumente zentral bündelt
 4. **Lernschleife:** Fertige Ergebnisse fließen als Beispiele und Lessons Learned zurück und verbessern den nächsten Durchlauf.
 
 ![Konzeptskizze CDE](cde-skizze.png)
-*Frühe Konzeptskizze*
+*Frühe Konzeptskizze, 23.09.2026*
 
